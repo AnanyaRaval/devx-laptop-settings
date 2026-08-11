@@ -1,10 +1,9 @@
 # Settings for iterm2
 
 * Keybindings
-- cmd -> move tabs
+    * cmd -> :  move tabs
 * Shortcuts 
-- Cmd t -> new tab
-
+    * Cmd t : new tab
 * Font:
 - Iosevka Term Slab
 - For Mac, download from here: https://github.com/be5invis/Iosevka/releases
